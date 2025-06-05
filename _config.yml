@@ -21,7 +21,7 @@ title                    : "ecstatic enumeration"
 title_separator          : "-"
 subtitle                 : "count all the things" # site tagline that appears below site title in masthead
 name                     : "Jared Brannan"
-description              : "An amazing website."
+description              : "A place to share various mathematical musings and ideas, lecture notes, and publications. This also serves as a digital CV if you like."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,7 +116,7 @@ author:
   name             : "Jared Brannan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Math PhD—student still learning to count on my fingers in complicated ways"
-  location         : "Pullman WA"
+  location         : "Pullman, WA"
   email            : "jbrannan565@gmail.com"
   links:
     - label: "Washington State University"
