@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jared Brannan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Math PhD—student still learning to count on my fingers in complicated ways"
   location         : "Pullman, WA"
   email            : "jbrannan565@gmail.com"
@@ -315,6 +315,14 @@ compress_html:
 
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
   # _posts
   - scope:
       path: ""
@@ -323,6 +331,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false # true
       share: true
       related: true
