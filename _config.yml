@@ -45,7 +45,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -115,10 +115,12 @@ analytics:
 author:
   name             : "Jared Brannan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Still learning to count on my fingers in complicated ways"
+  bio              : "Math PhD—student still learning to count on my fingers in complicated ways"
   location         : "Pullman WA"
   email            : "jbrannan565@gmail.com"
   links:
+    - label: "Washington State University"
+      icon: "fab fa-fw fa-University"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:jbrannan565@gmail.com"
