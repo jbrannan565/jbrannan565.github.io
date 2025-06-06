@@ -1,4 +1,11 @@
-# About
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Felicitations! My name is Jared Brannan. I am a combinatorialist in training, singer, musician, and lover of code and data.
 I am currently working on my PhD in mathematics at Washington State University under Dr. Matthew Hudelson.
