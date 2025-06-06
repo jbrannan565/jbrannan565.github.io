@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Felicitations! My name is Jared Brannan. I am a combinatorialist in training, singer, musician, and lover of code and data.
